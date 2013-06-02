@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBWallPostByTechBrijModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="DBWallPostByTechBrijModelStoreContainer">
+    <EntitySet Name="PostComments" EntityType="DBWallPostByTechBrijModel.Store.PostComments" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Posts" EntityType="DBWallPostByTechBrijModel.Store.Posts" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="UserProfile" EntityType="DBWallPostByTechBrijModel.Store.UserProfile" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_PostComments_ToTable" Association="DBWallPostByTechBrijModel.Store.FK_PostComments_ToTable">
+      <End Role="Posts" EntitySet="Posts" />
+      <End Role="PostComments" EntitySet="PostComments" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PostComments_ToTable_1" Association="DBWallPostByTechBrijModel.Store.FK_PostComments_ToTable_1">
+      <End Role="UserProfile" EntitySet="UserProfile" />
+      <End Role="PostComments" EntitySet="PostComments" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Posts_ToTable" Association="DBWallPostByTechBrijModel.Store.FK_Posts_ToTable">
+      <End Role="UserProfile" EntitySet="UserProfile" />
+      <End Role="Posts" EntitySet="Posts" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="PostComments">
+    <Key>
+      <PropertyRef Name="CommentId" />
+    </Key>
+    <Property Name="CommentId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PostId" Type="int" Nullable="false" />
+    <Property Name="Message" Type="varchar(max)" Nullable="false" />
+    <Property Name="CommentedBy" Type="int" Nullable="false" />
+    <Property Name="CommentedDate" Type="datetime2" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Posts">
+    <Key>
+      <PropertyRef Name="PostId" />
+    </Key>
+    <Property Name="PostId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Message" Type="varchar(max)" Nullable="false" />
+    <Property Name="PostedBy" Type="int" Nullable="false" />
+    <Property Name="PostedDate" Type="datetime2" Nullable="false" />
+  </EntityType>
+  <EntityType Name="UserProfile">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="nvarchar(max)" />
+    <Property Name="AvatarExt" Type="varchar" MaxLength="5" />
+  </EntityType>
+  <Association Name="FK_PostComments_ToTable">
+    <End Role="Posts" Type="DBWallPostByTechBrijModel.Store.Posts" Multiplicity="1" />
+    <End Role="PostComments" Type="DBWallPostByTechBrijModel.Store.PostComments" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Posts">
+        <PropertyRef Name="PostId" />
+      </Principal>
+      <Dependent Role="PostComments">
+        <PropertyRef Name="PostId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PostComments_ToTable_1">
+    <End Role="UserProfile" Type="DBWallPostByTechBrijModel.Store.UserProfile" Multiplicity="1" />
+    <End Role="PostComments" Type="DBWallPostByTechBrijModel.Store.PostComments" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserProfile">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="PostComments">
+        <PropertyRef Name="CommentedBy" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Posts_ToTable">
+    <End Role="UserProfile" Type="DBWallPostByTechBrijModel.Store.UserProfile" Multiplicity="1" />
+    <End Role="Posts" Type="DBWallPostByTechBrijModel.Store.Posts" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserProfile">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Posts">
+        <PropertyRef Name="PostedBy" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBWallPostByTechBrijModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="WallEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="PostComments" EntityType="DBWallPostByTechBrijModel.PostComment" />
+    <EntitySet Name="Posts" EntityType="DBWallPostByTechBrijModel.Post" />
+    <EntitySet Name="UserProfiles" EntityType="DBWallPostByTechBrijModel.UserProfile" />
+    <AssociationSet Name="FK_PostComments_ToTable" Association="DBWallPostByTechBrijModel.FK_PostComments_ToTable">
+      <End Role="Post" EntitySet="Posts" />
+      <End Role="PostComment" EntitySet="PostComments" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PostComments_ToTable_1" Association="DBWallPostByTechBrijModel.FK_PostComments_ToTable_1">
+      <End Role="UserProfile" EntitySet="UserProfiles" />
+      <End Role="PostComment" EntitySet="PostComments" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Posts_ToTable" Association="DBWallPostByTechBrijModel.FK_Posts_ToTable">
+      <End Role="UserProfile" EntitySet="UserProfiles" />
+      <End Role="Post" EntitySet="Posts" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="PostComment">
+    <Key>
+      <PropertyRef Name="CommentId" />
+    </Key>
+    <Property Type="Int32" Name="CommentId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="PostId" Nullable="false" />
+    <Property Type="String" Name="Message" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="CommentedBy" Nullable="false" />
+    <Property Type="DateTime" Name="CommentedDate" Nullable="false" Precision="7" />
+    <NavigationProperty Name="Post" Relationship="DBWallPostByTechBrijModel.FK_PostComments_ToTable" FromRole="PostComment" ToRole="Post" />
+    <NavigationProperty Name="UserProfile" Relationship="DBWallPostByTechBrijModel.FK_PostComments_ToTable_1" FromRole="PostComment" ToRole="UserProfile" />
+  </EntityType>
+  <EntityType Name="Post">
+    <Key>
+      <PropertyRef Name="PostId" />
+    </Key>
+    <Property Type="Int32" Name="PostId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Message" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="PostedBy" Nullable="false" />
+    <Property Type="DateTime" Name="PostedDate" Nullable="false" Precision="7" />
+    <NavigationProperty Name="PostComments" Relationship="DBWallPostByTechBrijModel.FK_PostComments_ToTable" FromRole="Post" ToRole="PostComment" />
+    <NavigationProperty Name="UserProfile" Relationship="DBWallPostByTechBrijModel.FK_Posts_ToTable" FromRole="Post" ToRole="UserProfile" />
+  </EntityType>
+  <EntityType Name="UserProfile">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Type="Int32" Name="UserId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="UserName" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="AvatarExt" MaxLength="5" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="PostComments" Relationship="DBWallPostByTechBrijModel.FK_PostComments_ToTable_1" FromRole="UserProfile" ToRole="PostComment" />
+    <NavigationProperty Name="Posts" Relationship="DBWallPostByTechBrijModel.FK_Posts_ToTable" FromRole="UserProfile" ToRole="Post" />
+  </EntityType>
+  <Association Name="FK_PostComments_ToTable">
+    <End Type="DBWallPostByTechBrijModel.Post" Role="Post" Multiplicity="1" />
+    <End Type="DBWallPostByTechBrijModel.PostComment" Role="PostComment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Post">
+        <PropertyRef Name="PostId" />
+      </Principal>
+      <Dependent Role="PostComment">
+        <PropertyRef Name="PostId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PostComments_ToTable_1">
+    <End Type="DBWallPostByTechBrijModel.UserProfile" Role="UserProfile" Multiplicity="1" />
+    <End Type="DBWallPostByTechBrijModel.PostComment" Role="PostComment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserProfile">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="PostComment">
+        <PropertyRef Name="CommentedBy" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Posts_ToTable">
+    <End Type="DBWallPostByTechBrijModel.UserProfile" Role="UserProfile" Multiplicity="1" />
+    <End Type="DBWallPostByTechBrijModel.Post" Role="Post" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserProfile">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Post">
+        <PropertyRef Name="PostedBy" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

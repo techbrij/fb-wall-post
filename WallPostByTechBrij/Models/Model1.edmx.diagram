@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="19314dcd01584ae69673d0e6954ee415" Name="Diagram1">
+        <EntityTypeShape EntityType="DBWallPostByTechBrijModel.PostComment" Width="1.5" PointX="4.5" PointY="10.625" />
+        <EntityTypeShape EntityType="DBWallPostByTechBrijModel.Post" Width="1.5" PointX="6.5" PointY="7.75" />
+        <EntityTypeShape EntityType="DBWallPostByTechBrijModel.UserProfile" Width="1.5" PointX="4.375" PointY="7.75" />
+        <AssociationConnector Association="DBWallPostByTechBrijModel.FK_PostComments_ToTable" />
+        <AssociationConnector Association="DBWallPostByTechBrijModel.FK_PostComments_ToTable_1" />
+        <AssociationConnector Association="DBWallPostByTechBrijModel.FK_Posts_ToTable" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

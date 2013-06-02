@@ -1,0 +1,37 @@
+﻿@{
+    ViewBag.Title = "Wall";
+}
+
+<h2>Facebook Style Wall Posting and Commenting</h2>
+
+<div class="publishContainer">
+    <textarea class="msgTextArea" id="txtMessage" data-bind="value: newMessage, jqAutoresize: {}" style="height:3em;" placeholder="What's on your mind?"></textarea>
+    <input type="button" data-url="/Wall/SavePost" value="Share" id="btnShare" data-bind="click: addPost">
+</div>
+<ul id="msgHolder" data-bind="foreach: posts">
+    <li class="postHolder">
+        <img data-bind="attr: { src: PostedByAvatar }"><p><a data-bind="text: PostedByName"></a>: <span data-bind="    html: Message"></span></p>
+        <div class="postFooter">
+            <span class="timeago" data-bind="text: PostedDate"></span>&nbsp;<a class="linkComment" href="#" data-bind="    click: toggleComment">Comment</a>
+            <div class="commentSection">
+                <ul data-bind="foreach: PostComments">
+                    <li class="commentHolder">
+                        <img  data-bind="attr: { src: CommentedByAvatar }"><p><a data-bind="text: CommentedByName"></a>: <span data-bind="    html: Message"></span></p>
+                        <div class="commentFooter"> <span class="timeago" data-bind="text: CommentedDate"></span>&nbsp;</div>
+                    </li>
+                </ul>
+                <div style="display: block" class="publishComment">
+                    <textarea class="commentTextArea" data-bind="value: newCommentMessage, jqAutoresize: {}" placeholder="write a comment..."></textarea>
+                    <input type="button"  value="Comment" class="btnComment" data-bind="click: addComment"/>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
+@section scripts{
+    @*Scripts.Render("~/bundles/jqueryui")*@
+    <script src="~/Scripts/jquery.autosize-min.js"></script>
+    <script src="~/Scripts/jquery.timeago.js"></script>
+    <script src="~/Scripts/knockout-2.2.0.js"></script>
+    <script src="~/Scripts/wallpost.js"></script>
+}

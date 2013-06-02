@@ -1,0 +1,170 @@
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\WallPostByTechBrij.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\WallPostByTechBrij.pdb
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Antlr3.Runtime.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\DotNetOpenAuth.AspNet.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\DotNetOpenAuth.Core.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\EntityFramework.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Microsoft.Data.Edm.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Microsoft.Data.OData.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Microsoft.Web.Infrastructure.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Newtonsoft.Json.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Net.Http.Formatting.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Spatial.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.Helpers.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.Http.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.Http.OData.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.Http.WebHost.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.Mvc.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.Optimization.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.Razor.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.WebPages.Deployment.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.WebPages.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.WebPages.Razor.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\WebGrease.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\WebMatrix.Data.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\WebMatrix.WebData.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\EntityFramework.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Newtonsoft.Json.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Net.Http.Formatting.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.Helpers.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.Http.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.Http.WebHost.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.Mvc.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.Razor.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.WebPages.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.WebPages.Deployment.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.WebPages.Razor.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\WebMatrix.Data.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\WebMatrix.WebData.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\DotNetOpenAuth.AspNet.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\DotNetOpenAuth.Core.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.Http.OData.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Microsoft.Data.Edm.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Microsoft.Data.OData.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Spatial.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\de\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\es\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\it\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\de\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\es\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\fr\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\it\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\ja\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\ko\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\ru\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\zh-Hans\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\zh-Hant\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.csprojResolveAssemblyReference.cache
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.pdb
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\WallPostByTechBrij.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\WallPostByTechBrij.pdb
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\Antlr3.Runtime.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\DotNetOpenAuth.AspNet.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\DotNetOpenAuth.Core.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\EntityFramework.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\Microsoft.Data.Edm.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\Microsoft.Data.OData.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\Microsoft.Web.Infrastructure.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\Newtonsoft.Json.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Net.Http.Formatting.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Spatial.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.Helpers.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.Http.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.Http.OData.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.Http.WebHost.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.Mvc.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.Optimization.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.Razor.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.WebPages.Deployment.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.WebPages.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.WebPages.Razor.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\WebGrease.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\WebMatrix.Data.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\WebMatrix.WebData.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\EntityFramework.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\Newtonsoft.Json.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Net.Http.Formatting.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.Helpers.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.Http.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.Http.WebHost.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.Mvc.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.Razor.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.WebPages.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.WebPages.Deployment.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.WebPages.Razor.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\WebMatrix.Data.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\WebMatrix.WebData.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\DotNetOpenAuth.AspNet.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\DotNetOpenAuth.Core.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.Http.OData.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\Microsoft.Data.Edm.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\Microsoft.Data.OData.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Spatial.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\de\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\es\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\it\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\de\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\es\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\fr\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\it\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\ja\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\ko\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\ru\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\zh-Hans\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\zh-Hant\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.csprojResolveAssemblyReference.cache
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.pdb
